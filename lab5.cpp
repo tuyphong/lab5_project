@@ -4,8 +4,8 @@
 #include <time.h>          
 using namespace std;
 
-const int NUM_PRODUCTS = 32768;
-const int LOW_VALUE = 0;
+const int NUM_PRODUCTS = 300000;
+const int LOW_VALUE = 10;
 const int FAILURE = -1;
 
 int lSearch(int arr [], int target);
